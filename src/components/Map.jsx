@@ -36,7 +36,7 @@ function Map() {
 					coordsArray.push(coords);
 				}
 
-				console.log(coordsArray);
+				// console.log(coordsArray);
 
 				setZoneOne(coordsArray);
 			} catch (error) {
